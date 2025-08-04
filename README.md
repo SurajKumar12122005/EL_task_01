@@ -14,4 +14,4 @@ This is a simple command-line calculator application built in Python. It support
 2. Run the script using:
 
 ```bash
-python calculator.py
+code.py
